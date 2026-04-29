@@ -16,8 +16,8 @@
 
 </div>
 <br>
-<p style="text-align: center">
-🏆 🏆 🏆
+<p align="center">
+🏆  🏆  🏆
 </p>
 <hr>
 

@@ -34,7 +34,7 @@ Si está interesado en investigar los recursos del repositorio como diagramas, e
 
 # Demo
 
-Si está interesado en provar una versión primitiva de Platinum puede hacerlo explorando la carpeta `/src`.
+Si está interesado en probar una versión primitiva de Platinum puede hacerlo explorando la carpeta `/src`.
 
 > [!IMPORTANT]
 > Es **imperativo** que se lea la documentación en [/src/README.md](/src/README.md) antes de ejecutar el proyecto.

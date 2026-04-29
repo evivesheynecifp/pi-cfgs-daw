@@ -1,8 +1,8 @@
-<div style="width:100%; display:flex; justify-content: center">
+<p align="center">
 <img src="/misc/readme/platinumBanner.png" style="width: 400px">
-</div>
+</p>
 
-<p style="text-align: center"><b>Repositorio informativo para el proyecto Platinum</b><br>Proyecto Intermodular del Grado Superior de Desarrollo de Aplicaciones Web</p>
+<p align="center"><b>Repositorio informativo para el proyecto Platinum</b><br>Proyecto Intermodular del Grado Superior de Desarrollo de Aplicaciones Web</p>
 
 <div align="center">
 
@@ -40,4 +40,4 @@ Si está interesado en provar una versión primitiva de Platinum puede hacerlo e
 > Es **imperativo** que se lea la documentación en [/src/README.md](/src/README.md) antes de ejecutar el proyecto.
 
 <hr>
-<p style="text-align: center"><small>La documentación del presente repositorio, incluyendo todos los archivos de extensión <i>.md</i> se distribuyen bajo <b>CC BY 4.0</b>. El codigo fuente encontrado dentro de la carpeta <i>/src</i> se distribuye bajo la licencia del repositorio <b>MIT License</b>.</small></p>
+<p align="center"><small>La documentación del presente repositorio, incluyendo todos los archivos de extensión <i>.md</i> se distribuyen bajo <b>CC BY 4.0</b>. El codigo fuente encontrado dentro de la carpeta <i>/src</i> se distribuye bajo la licencia del repositorio <b>MIT License</b>.</small></p>

@@ -1,5 +1,5 @@
-<div style="width:100%; display:flex; justify-content: center">
+<div align="center">
 <img src="/misc/readme/platinumBanner.png" style="width: 400px">
 </div>
 
-<h1 style="text-align: center">SRC README</h1>
+<h1 align="center">SRC README</h1>

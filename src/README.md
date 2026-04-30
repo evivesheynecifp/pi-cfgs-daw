@@ -8,11 +8,14 @@ Este fichero contiene toda la información para preparar su entorno de desarroll
 
 # Contenidos
 
+- [Contenidos](#contenidos)
 - [Preparativos](#preparativos)
   - [Requisitos](#requisitos)
   - [Dependencias NPM](#dependencias-npm)
   - [Dependencias Maven](#dependencias-maven)
   - [Demo Data Base](#demo-data-base)
+  - [Application Secrets](#application-secrets)
+  - [Checklist](#checklist)
 - [Ejecución](#ejecución)
 - [Acceso](#acceso)
   - [Usuarios Demo](#usuarios-demo)
@@ -68,6 +71,31 @@ Una vez dentro:
 - Click derecho en la base de datos -> `Restore the file`
 - - Formato: `Plain`
 - - Seleccionar `/src/platinum.sql`
+
+## Application Secrets
+
+En el repositorio se incluye un archivo llamado `src/backend/src/main/resources/application-secrets-example.properties`.
+
+Para que funcione correctamente será necesario renombrarlo a `application-secrets.properties`.
+
+Dicho archivo es esencial para la correcta ejecución del backend ya que contiene, entre otros parametros, la clave privada para a **API de Steam**. Dicha clave puede ser obtenida de dos formas:
+
+- Se envia la clave ya existente via email al comité para que estos la introduzcan en el código.
+- Se pide una clave propia ya que son gratuitas y únicamente se requiere tener una cuenta válida de Steam.
+> Para obtener la clave visita [Steam API Key](https://steamcommunity.com/dev/apikey)
+
+> [!IMPORTANT]
+> Es imperativo tener el archivo `application-secrets.properties` creado y con una **Steam API Key** válida para el correcto funcionamiento de la app.
+
+## Checklist
+
+A continuación se inncluye una checklist para ver si los preparativos se han seguido correctamente.
+
+- [ ] Todos los [requisitos](#requisitos) están instalados y operativos.
+- [ ] Las [dependencias](#dependencias-npm) de NPM están correctamente instaladas.
+- [ ] Las [dependencias](#dependencias-maven) de Maven están correctamente instaladas.
+- [ ] Se ha creado la [base de datos](#demo-data-base) correctamente y con los nombres exactos.
+- [ ] Se ha creado el [application-secrets.properties](#application-secrets) con una clave para la API de Steam válida.
 
 # Ejecución
 

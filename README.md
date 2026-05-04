@@ -39,5 +39,15 @@ Si está interesado en probar una versión primitiva de Platinum puede hacerlo e
 > [!IMPORTANT]
 > Es **imperativo** que se lea la documentación en [/src/README.md](/src/README.md) antes de ejecutar el proyecto.
 
+# Repositorio original
+
+En este repositorio de Git Hub se encuentra el desarrollo original de Platinum. Se encuentra:
+
+- Codigo fuente original y actualizado.
+- Readmes explicativos completos para el Backend y Frontend.
+- Hisotiral de commits y ramas originales.
+
+El repositorio se encuentra [aqui](https://github.com/Kiro85/entregables-projecte-final-dawpi2526_platinum_src/tree/main)
+
 <hr>
 <p align="center"><small>La documentación del presente repositorio, incluyendo todos los archivos de extensión <i>.md</i> se distribuyen bajo <b>CC BY 4.0</b>. El codigo fuente encontrado dentro de la carpeta <i>/src</i> se distribuye bajo la licencia del repositorio <b>MIT License</b>.</small></p>

@@ -8,7 +8,7 @@ Este documento recopila la documentación mas critica y necesaria para entender 
 
 # Contenidos
 
-@import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false}
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
 

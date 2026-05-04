@@ -4,6 +4,8 @@
 
 <h1 align="center">OVERVIEW README</h1>
 
+Una vista general y resumida del proyecto como conjunto.
+
 # Contenidos
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -20,7 +22,6 @@
   - [Frontend](#frontend)
 
 <!-- /code_chunk_output -->
-
 
 # Introducción
 

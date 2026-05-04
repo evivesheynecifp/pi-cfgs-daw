@@ -84,8 +84,8 @@ Los contenidos recomendados son:
 
 ## Arquitectura
 
-**Carpeta:** `/docs/arquitectura/`
-**Enlace:** [click aquí](/docs/arquitectura/)
+**Carpeta:** `/docs/arquitectura/`.
+**Enlace:** [click aquí](/docs/arquitectura/).
 **Resumen**: Explicación de la arquitectura principal del proyecto incluyendo diagramas.
 
 ## Tecnologias

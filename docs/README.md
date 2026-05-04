@@ -78,30 +78,30 @@ Los contenidos recomendados son:
 
 ## Overview
 
-**Carpeta:** `/docs/overview/`
-**Enlace:** [click aquí](/docs/overview/)
+**Carpeta:** `/docs/overview/`<br>
+**Enlace:** [click aquí](/docs/overview/)<br>
 **Resumen**: Descripción general y resumida del proyecto incluyedo objetivos, alcance decisiones importantes...
 
 ## Arquitectura
 
 **Carpeta:** `/docs/arquitectura/`<br>
-**Enlace:** [click aquí](/docs/arquitectura/)
+**Enlace:** [click aquí](/docs/arquitectura/)<br>
 **Resumen**: Explicación de la arquitectura principal del proyecto incluyendo diagramas.
 
 ## Tecnologias
 
-**Carpeta:** `/docs/tecnologias/`
-**Enlace:** [click aquí](/docs/tecnologias/)
+**Carpeta:** `/docs/tecnologias/`<br>
+**Enlace:** [click aquí](/docs/tecnologias/)<br>
 **Resumen**: Explicación de las tecnologias utilizadas y sus justificaciones.
 
 ## Funcionalidades
 
-**Carpeta:** `/docs/funcionalidades/`
-**Enlace:** [click aquí](/docs/funcionalidades/)
+**Carpeta:** `/docs/funcionalidades/`<br>
+**Enlace:** [click aquí](/docs/funcionalidades/)<br>
 **Resumen**: Funciones principales de Platinum explicadas y documentadas.
 
 ## Código
 
-**Carpeta:** `/docs/codigo/`
-**Enlace:** [click aquí](/docs/codigo/)
+**Carpeta:** `/docs/codigo/`<br>
+**Enlace:** [click aquí](/docs/codigo/)<br>
 **Resumen**: Explicación tecnica de bloques de codigo coplejas y relevantes.

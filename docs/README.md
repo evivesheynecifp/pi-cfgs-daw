@@ -76,32 +76,32 @@ Los contenidos recomendados son:
 
 # Estructura de docs
 
-> ## Overview
->
-> **Carpeta:** `/docs/overview/`
-> **Enlace:** [click aquí](/docs/overview/)
-> **Resumen**: Descripción general y resumida del proyecto incluyedo objetivos, alcance decisiones importantes...
+## Overview
 
-> ## Arquitectura
->
-> **Carpeta:** `/docs/arquitectura/`
-> **Enlace:** [click aquí](/docs/arquitectura/)
-> **Resumen**: Explicación de la arquitectura principal del proyecto incluyendo diagramas.
+**Carpeta:** `/docs/overview/`
+**Enlace:** [click aquí](/docs/overview/)
+**Resumen**: Descripción general y resumida del proyecto incluyedo objetivos, alcance decisiones importantes...
 
-> ## Tecnologias
->
-> **Carpeta:** `/docs/tecnologias/`
-> **Enlace:** [click aquí](/docs/tecnologias/)
-> **Resumen**: Explicación de las tecnologias utilizadas y sus justificaciones.
+## Arquitectura
 
-> ## Funcionalidades
->
-> **Carpeta:** `/docs/funcionalidades/`
-> **Enlace:** [click aquí](/docs/funcionalidades/)
-> **Resumen**: Funciones principales de Platinum explicadas y documentadas.
+**Carpeta:** `/docs/arquitectura/`
+**Enlace:** [click aquí](/docs/arquitectura/)
+**Resumen**: Explicación de la arquitectura principal del proyecto incluyendo diagramas.
 
-> ## Código
->
-> **Carpeta:** `/docs/codigo/`
-> **Enlace:** [click aquí](/docs/codigo/)
-> **Resumen**: Explicación tecnica de bloques de codigo coplejas y relevantes.
+## Tecnologias
+
+**Carpeta:** `/docs/tecnologias/`
+**Enlace:** [click aquí](/docs/tecnologias/)
+**Resumen**: Explicación de las tecnologias utilizadas y sus justificaciones.
+
+## Funcionalidades
+
+**Carpeta:** `/docs/funcionalidades/`
+**Enlace:** [click aquí](/docs/funcionalidades/)
+**Resumen**: Funciones principales de Platinum explicadas y documentadas.
+
+## Código
+
+**Carpeta:** `/docs/codigo/`
+**Enlace:** [click aquí](/docs/codigo/)
+**Resumen**: Explicación tecnica de bloques de codigo coplejas y relevantes.
